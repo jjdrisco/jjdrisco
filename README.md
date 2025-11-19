@@ -28,15 +28,13 @@ I’m currently a **Data Science M.S. student at UC San Diego** where I design a
   - Interviewed parents of K–12 students about how their kids use GenAI chatbots and what they want to moderate.  
   - Built LLM-backed prototypes with controls over topics, tone, and when the model defers to an adult, plus visualization of children’s usage.  
   - Prototypes built on top of open-source UIs such as  
-    - [`DSL-kidsgpt-open-webui`](https://github.com/jjdrisco/DSL-kidsgpt-open-webui)  
-    - [`web-llm-chat-parental`](https://github.com/jjdrisco/web-llm-chat-parental)  
-  - Analysis code and graphs: internal repo (`GenAI_Parental_Graphs`, private).
+  - Code: private; available on request where appropriate.
 
 - **Compass-X – Metacognition Tool for CS2**  
   *Web app + large-scale deployment*  
   - Full-stack tool that prompts students to reflect on their study plans and progress in data structures courses.  
   - Deployed in a large CS2 course; used logs + grades + surveys to study relationships between usage, learning outcomes, and confidence.  
-  - Code: internal UCSD repo (`compass-x`, private; available on request where appropriate).
+  - Code: private; available on request where appropriate.
 
 ### Applied data science & visualization (public repos)
 
