@@ -1,6 +1,6 @@
 # John Driscoll
 
-Hi, I’m John 👋 — a data scientist and human–AI interaction researcher focused on **child & family safety**, **usable privacy**, and **decision support for vulnerable users**.
+Hi, I’m John 👋 — a data scientist and human–AI interaction researcher focused on **AI Safety**, **usable privacy**, and **decision support for vulnerable users**, currently children and families.
 
 I’m currently a **Data Science M.S. student at UC San Diego** where I design and evaluate systems that help families, students, and communities interact with AI and data safely and effectively.
 
